@@ -1,4 +1,4 @@
-# JAVA GAME
+# DRAG&DROP GAME
 
 <p align="center">
     <img src="img/img01.png" />
